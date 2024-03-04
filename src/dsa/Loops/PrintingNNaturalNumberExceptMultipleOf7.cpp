@@ -16,3 +16,5 @@ int main()
     }
     return 0;
 }
+
+//Printing N Natural number except multiple of 7
