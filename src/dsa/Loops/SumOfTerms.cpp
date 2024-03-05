@@ -22,6 +22,9 @@ int main()
     return 0;
 }
 
+// We are having a series and we need to find the sum of nth numbers
+
+// The series is.
 // 1, x, x^2/2!, x^3/3! ......
-//or
+// or
 // x^0/0!, x^1/1!, x^2/2!, x^3/3! ......
