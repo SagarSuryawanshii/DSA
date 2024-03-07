@@ -28,6 +28,7 @@ int main()
     return 0;
 }
 
+
 // Jon and his friend are playing Rock, Paper and Scissors.
 
 // It is known that they played N rounds in which Jon played R1 times rock, P1 time paper and S1 times scissors and his friend played R2 times rock, P2 time paper and S2 times scissors. In each round, his friend plays first.
